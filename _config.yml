@@ -45,7 +45,7 @@ myminima:
 
 # Build settings
 theme: myminima
-
+# author: Shadab Khan
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
